@@ -43,7 +43,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 | 📚 Stack | ✅ Active |
 | 🔁 Queue | 🔄 In Progress |
 | #️⃣ Hashing | ✅ Active |
-| 🔄 Recursion | 🔄 In Progress |
+| 🔄 Recursion | ✅ Active |
 | 🌳 Trees | 🔄 In Progress |
 | 🕸️ Graphs | 🔄 In Progress |
 | 💡 Dynamic Programming | 🔄 In Progress |
