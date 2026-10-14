@@ -38,7 +38,7 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 |---|---|
 | 📦 Arrays | ✅ Active |
 | 🔤 Strings | ✅ Active |
-| 🔗 Linked List | 🔄 In Progress |
+| 🔗 Linked List | ✅ Active |
 | 🔢 Math | ✅ Active |
 | 📚 Stack | ✅ Active |
 | 🔁 Queue | 🔄 In Progress |
