@@ -72,6 +72,43 @@ flowchart LR
 
 </details>
 
+<details open>
+<summary><b>📏 Phase 3 · Linear Data Structures</b></summary>
+
+| # | Topic | Progress | Status |
+|:-:|---|:-:|:-:|
+| 10 | 📋 ArrayList | `▱▱▱▱▱` | 🕒 Planned |
+| 11 | 🔗 Linked List | `▰▰▱▱▱` | 🔄 In Progress |
+| 12 | 📚 Stack | `▰▰▰▰▱` | ✅ Active |
+| 13 | 🔁 Queue | `▰▰▱▱▱` | 🔄 In Progress |
+| 14 | 🧩 Greedy Algorithms | `▰▰▱▱▱` | 🔄 In Progress |
+
+</details>
+
+<details open>
+<summary><b>🌲 Phase 4 · Trees, Heaps & Hashing</b></summary>
+
+| # | Topic | Progress | Status |
+|:-:|---|:-:|:-:|
+| 15 | 🌳 Binary Trees | `▰▰▱▱▱` | 🔄 In Progress |
+| 16 | 🔍 Binary Search Trees | `▱▱▱▱▱` | 🕒 Planned |
+| 17 | ⛰️ Heaps | `▱▱▱▱▱` | 🕒 Planned |
+| 18 | #️⃣ Hashing | `▰▰▰▰▱` | ✅ Active |
+| 19 | 🔡 Tries | `▱▱▱▱▱` | 🕒 Planned |
+
+</details>
+
+<details open>
+<summary><b>🚀 Phase 5 · Advanced</b></summary>
+
+| # | Topic | Progress | Status |
+|:-:|---|:-:|:-:|
+| 20 | 🕸️ Graphs | `▰▰▱▱▱` | 🔄 In Progress |
+| 21 | 💡 Dynamic Programming | `▰▰▱▱▱` | 🔄 In Progress |
+| 22 | 📐 Segment Trees | `▱▱▱▱▱` | 🕒 Planned |
+
+</details>
+
 ---
 
 ## 📂 Repository Structure
