@@ -61,6 +61,17 @@ flowchart LR
 
 </details>
 
+<details open>
+<summary><b>🧠 Phase 2 · Problem-Solving Techniques</b></summary>
+
+| # | Topic | Progress | Status |
+|:-:|---|:-:|:-:|
+| 07 | 🔄 Recursion | `▰▰▱▱▱` | 🔄 In Progress |
+| 08 | ✂️ Divide and Conquer | `▱▱▱▱▱` | 🕒 Planned |
+| 09 | 🔙 Backtracking | `▱▱▱▱▱` | 🕒 Planned |
+
+</details>
+
 ---
 
 ## 📂 Repository Structure
