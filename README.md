@@ -32,22 +32,20 @@ Most problems are sourced from **LeetCode** and similar competitive programming 
 
 ---
 
-## 📚 Topics Covered
+## 🗺️ Learning Roadmap
 
-| Category | Status |
-|---|---|
-| 📦 Arrays | ✅ Active |
-| 🔤 Strings | ✅ Active |
-| 🔗 Linked List | 🔄 In Progress |
-| 🔢 Math | ✅ Active |
-| 📚 Stack | ✅ Active |
-| 🔁 Queue | 🔄 In Progress |
-| #️⃣ Hashing | ✅ Active |
-| 🔄 Recursion | 🔄 In Progress |
-| 🌳 Trees | 🔄 In Progress |
-| 🕸️ Graphs | 🔄 In Progress |
-| 💡 Dynamic Programming | 🔄 In Progress |
-| 🧩 Greedy Algorithms |  🔄 In Progress |
+```mermaid
+flowchart LR
+    A["🧱 Foundations"] --> B["🧠 Problem-Solving Techniques"]
+    B --> C["📏 Linear Data Structures"]
+    C --> D["🌲 Trees & Heaps"]
+    D --> E["🚀 Advanced"]
+
+    classDef phase fill:#6366f1,stroke:#4f46e5,color:#fff,rx:8,ry:8
+    class A,B,C,D,E phase
+```
+
+**Legend:** `▰▰▰▰▰` mastered · `▰▰▰▱▱` active · `▰▱▱▱▱` in progress · `▱▱▱▱▱` planned
 
 ---
 
