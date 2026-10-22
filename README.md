@@ -52,7 +52,7 @@ flowchart LR
 
 | # | Topic | Progress | Status |
 |:-:|---|:-:|:-:|
-| 01 | 📦 Arrays | `▰▰▰▰▱` | ✅ Active |
+| 01 | 📦 Arrays | `▰▰▰▰▱` | 🔄 In Progress |
 | 02 | 🔃 Basic Sorting Algorithms | `▰▰▰▰▰` | ✅ Active |
 | 03 | 🧮 2D Arrays | `▱▱▱▱▱` | ✅ Active |
 | 04 | 🔤 Strings | `▰▰▰▰▱` | ✅ Active |
