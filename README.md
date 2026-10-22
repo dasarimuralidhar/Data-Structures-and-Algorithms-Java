@@ -53,7 +53,7 @@ flowchart LR
 | # | Topic | Progress | Status |
 |:-:|---|:-:|:-:|
 | 01 | 📦 Arrays | `▰▰▰▰▱` | ✅ Active |
-| 02 | 🔃 Basic Sorting Algorithms | `▰▰▰▰▰` | 🕒 Planned |
+| 02 | 🔃 Basic Sorting Algorithms | `▰▰▰▰▰` | ✅ Active |
 | 03 | 🧮 2D Arrays | `▱▱▱▱▱` | 🕒 Planned |
 | 04 | 🔤 Strings | `▰▰▰▰▱` | ✅ Active |
 | 05 | ⚙️ Bit Manipulation | `▱▱▱▱▱` | 🕒 Planned |
