@@ -54,7 +54,7 @@ flowchart LR
 |:-:|---|:-:|:-:|
 | 01 | 📦 Arrays | `▰▰▰▰▱` | ✅ Active |
 | 02 | 🔃 Basic Sorting Algorithms | `▰▰▰▰▰` | ✅ Active |
-| 03 | 🧮 2D Arrays | `▱▱▱▱▱` | 🕒 Planned |
+| 03 | 🧮 2D Arrays | `▱▱▱▱▱` | ✅ Active |
 | 04 | 🔤 Strings | `▰▰▰▰▱` | ✅ Active |
 | 05 | ⚙️ Bit Manipulation | `▱▱▱▱▱` | 🕒 Planned |
 | 06 | 🧱 OOPs | `▱▱▱▱▱` | 🕒 Planned |
